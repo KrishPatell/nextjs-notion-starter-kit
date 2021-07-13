@@ -7,12 +7,12 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Krish A. Patel',
+  name: 'Krish A Patel',
   domain: 'www.krishpatel.cc',
   author: 'Krish Patel',
 
   // open graph metadata (optional)
-  description: 'A 17.7 Y/o Maker & Learner',
+  description: 'A 17 Y/o Crypto Enthusiast',
   socialImageTitle: 'Krish Patel',
   socialImageSubtitle: 'Hello World! 👋',
 
