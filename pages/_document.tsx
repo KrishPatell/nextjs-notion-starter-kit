@@ -35,6 +35,9 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+            
+            <script async defer data-domain="krishpatel.cc" src="https://cdn.vimarsh.info/app.js"></script>
+            
           </Head>
 
           <body>
