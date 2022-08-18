@@ -8,11 +8,11 @@ module.exports = {
 
   // basic site info (required)
   name: 'Krish A Patel',
-  domain: 'www.krishpatel.cc',
+  domain: 'krishpatel.xyz',
   author: 'Krish Patel',
 
   // open graph metadata (optional)
-  description: 'A 17 Y/o Crypto Enthusiast',
+  description: 'Blog of an 18y/o',
   socialImageTitle: 'Krish Patel',
   socialImageSubtitle: 'Hello World! 👋',
 
